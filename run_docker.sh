@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define variables
-IMAGE_NAME="my_flask_app"
+IMAGE_NAME="brainupgrade/ghtraining4"
 CONTAINER_NAME="flask_app_container"
 PORT=5000
 
